@@ -1,0 +1,53 @@
+.insert{
+    margin: auto; 
+    width: 30%;
+  }
+  
+  .view{
+    margin-left:20px;
+    margin-right: 20px;
+  }
+  
+  
+  .login{
+    margin: auto; 
+    width: 30%;
+  }
+  
+  .signup{
+    margin: auto; 
+    width: 30%;
+  }
+  
+  .nav{
+    margin: auto;
+    width:90%;
+  }
+  
+  .home{
+    margin:auto;
+    width: 30%;
+  }
+  
+  
+  .button {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 8px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+  }
+  
+  /* .message{
+    margin: auto; 
+    width: 30%;
+  
+  } */
+  
+  .noemp{
+    text-align: center;
+  }
